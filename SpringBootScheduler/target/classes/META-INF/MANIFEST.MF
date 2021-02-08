@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootScheduler
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Srboljub
+Implementation-Vendor-Id: fi.abo.springboot
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootScheduler
+Created-By: Maven Integration for Eclipse
+
