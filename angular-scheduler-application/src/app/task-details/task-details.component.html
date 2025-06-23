@@ -1,0 +1,19 @@
+<h2>Task Details</h2>
+
+<hr />
+<div *ngIf="task">
+  <div>
+    <label><b>Name: </b></label> {{task.name}}
+  </div>
+  <div>
+    <label><b>Recurrency: </b></label> {{task.recurrency}}
+  </div>
+  <div>
+    <label><b>Code: </b></label> {{task.code}}
+  </div>
+</div>
+
+<br>
+<br>
+<button (click)="list()" class="btn btn-primary">Back to Task List</button>
+<br>

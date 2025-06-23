@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\create-task",
+    "\\src\\app\\service",
+    "\\src\\app\\task-details",
+    "\\src\\app\\task-list",
+    "\\src\\app\\update-task"
+  ],
+  "SelectedNode": "\\src\\app\\create-task\\create-task.component.html",
+  "PreviewInSolutionExplorer": false
+}

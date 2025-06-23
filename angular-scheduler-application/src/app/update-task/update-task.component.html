@@ -1,0 +1,21 @@
+<h3>Update Task</h3>
+<div style="width: 400px;">
+  <form (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" class="form-control" id="name" required [(ngModel)]="task.name" name="name">
+    </div>
+
+    <div class="form-group">
+      <label for="name">Recurrency</label>
+      <input type="text" class="form-control" id="recurrency" required [(ngModel)]="task.recurrency" name="recurrency">
+    </div>
+
+    <div class="form-group">
+      <label for="name">Code</label>
+      <input type="text" class="form-control" id="code" required [(ngModel)]="task.code" name="code">
+    </div>
+
+    <button type="submit" class="btn btn-success">Submit</button>
+  </form>
+</div>
